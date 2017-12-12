@@ -1,0 +1,28 @@
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\bin\Debug\DemoSsh.exe.config
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\bin\Debug\DemoSsh.exe
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\bin\Debug\DemoSsh.pdb
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\bin\Debug\AutoItX3.Assembly.dll
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\obj\Debug\Interop.AutoItX3Lib.dll
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\obj\Debug\DemoSsh.csproj.ResolveComReference.cache
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\obj\Debug\DemoSsh.Form1.resources
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\obj\Debug\DemoSsh.Properties.Resources.resources
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\obj\Debug\DemoSsh.csproj.GenerateResource.Cache
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\obj\Debug\DemoSsh.exe
+c:\users\quoc minh\documents\visual studio 2015\Projects\DemoSsh\DemoSsh\obj\Debug\DemoSsh.pdb
+C:\Users\Quoc Minh\Documents\Visual Studio 2015\Projects\DemoSsh\DemoSsh\bin\Debug\Bitvise SSH Client\BvSsh.exe
+C:\Users\Quoc Minh\Documents\Visual Studio 2015\Projects\DemoSsh\DemoSsh\bin\Debug\Bitvise SSH Client\default.bscp
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\bin\Debug\DemoSsh.exe.config
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\DemoSsh.csproj.ResolveComReference.cache
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\DemoSsh.exe
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\DemoSsh.pdb
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\DemoSsh.Properties.Resources.resources
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\DemoSsh.csproj.GenerateResource.Cache
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\bin\Debug\Bitvise SSH Client\BvSsh.exe
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\bin\Debug\Bitvise SSH Client\default.bscp
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\bin\Debug\DemoSsh.exe
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\bin\Debug\DemoSsh.pdb
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\DemoSsh.LoginSsh.resources
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\DemoSsh.ScanPort.resources
+C:\Users\Quoc Minh\Desktop\DemoSsh\DemoSsh\obj\Debug\DemoSsh.csprojResolveAssemblyReference.cache
